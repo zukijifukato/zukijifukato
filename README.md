@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @zukijifukato
+
+![](https://komarev.com/ghpvc/?username=zukijifukato)
 <!-- - 👀 I’m interested in ...
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
