@@ -5,7 +5,11 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... -->
 
-<h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1><a align="center" href="https://github.com/zukijifukato" target="_blank"><img alt="alwinw" src="https://badges.pufler.dev/visits/zukijifukato/zukijifukato?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
+<h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+
+<p align="center">
+  <a href="https://github.com/zukijifukato" target="_blank"><img alt="alwinw" src="https://badges.pufler.dev/visits/zukijifukato/zukijifukato?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
+</p>
 
 ### :woman_technologist: &nbsp;About Me :
 
@@ -14,13 +18,15 @@ Hi, I am zukijifukato, doing some computer stuffs <img src="https://media.giphy.
 - 🔭 I’m currently working on a private personal game project.
 - 🌱 Also exploring new technologies.
 - ⚡ In my free time I watch anime, donghua, movies, listen to music, read books, mangas, manhwas and manhuas.
-- 📫 You can mostly find me on: <a href="https://discord.com/app" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>: `zukijifukato#0393`<a href="https://twitter.com/zukijifukato" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+- 📫 You can mostly find me on Discord at `zukijifukato#0393`
 
 ---
 
 ### 🛠 &nbsp;Languages and Tools :
 
 <p>
+<img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="Vim" alt="Vim" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -30,6 +36,8 @@ Hi, I am zukijifukato, doing some computer stuffs <img src="https://media.giphy.
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
 </p>
