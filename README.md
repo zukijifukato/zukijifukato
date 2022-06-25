@@ -5,8 +5,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... -->
 
-<a href="https://github.com/zukijifukato" target="_blank"><img alt="alwinw" src="https://badges.pufler.dev/visits/zukijifukato/zukijifukato?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
-<h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+<h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1><a align="center" href="https://github.com/zukijifukato" target="_blank"><img alt="alwinw" src="https://badges.pufler.dev/visits/zukijifukato/zukijifukato?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
 
 ### :woman_technologist: &nbsp;About Me :
 
@@ -15,7 +14,7 @@ Hi, I am zukijifukato, doing some computer stuffs <img src="https://media.giphy.
 - 🔭 I’m currently working on a private personal game project.
 - 🌱 Also exploring new technologies.
 - ⚡ In my free time I watch anime, donghua, movies, listen to music, read books, mangas, manhwas and manhuas.
-- 📫 You can mostly find me on Discord @ `zukijifukato#0393`
+- 📫 You can mostly find me on: <a href="https://discord.com/app" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>: `zukijifukato#0393`<a href="https://twitter.com/zukijifukato" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
 
 ---
 
