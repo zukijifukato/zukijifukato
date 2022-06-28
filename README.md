@@ -8,7 +8,7 @@
 <h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
 <p align="center">
-  <a href="https://github.com/zukijifukato" target="_blank"><img alt="alwinw" src="https://badges.pufler.dev/visits/zukijifukato/zukijifukato?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
+  <a href="https://github.com/zukijifukato" target="_blank"><img alt="zukijifukato" src="https://badges.pufler.dev/visits/zukijifukato/zukijifukato?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
 </p>
 
 ### :woman_technologist: &nbsp;About Me :
